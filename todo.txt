@@ -1,0 +1,14 @@
+
+
+1) header bar
+
+2) sideabar and small bio
+
+3) contacts page
+
+4) bio page
+
+5) projects page
+
+6) blog posts
+
